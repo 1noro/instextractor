@@ -1,9 +1,13 @@
 * {
-	
+
 }
 
 body {
 	margin: 0;
 	font-family: monospace, arial, ubuntu;
 	background-color: #fff;
+}
+
+.img_element {
+	width: 200px;
 }
